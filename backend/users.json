@@ -1,0 +1,23 @@
+{
+  "teste@exemplo.com": {
+    "name": "Usuario Teste",
+    "registered_at": "2025-06-15T15:31:05.316318",
+    "last_name": "Silva",
+    "age": 25,
+    "shared_recipes": 3
+  },
+  "bebelle342@gmail.com": {
+    "name": "belle",
+    "last_login": "2025-06-22T19:33:13.292411",
+    "last_name": "Vasquez",
+    "age": 21,
+    "shared_recipes": 8
+  },
+  "isabellevasquezoliveira@gmail.com": {
+    "name": "Isabelle",
+    "registered_at": "2025-06-16T01:38:35.123605",
+    "last_name": "",
+    "age": "",
+    "shared_recipes": 0
+  }
+}
